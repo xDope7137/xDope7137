@@ -18,5 +18,3 @@ Most interested in agentic AI, LLM tooling, and automation engineering. Open to 
 | [society](https://github.com/xDope7137/society) | Society management system. Django REST plus Next.js 14 plus PostgreSQL. Visitors, complaints, billing, four-tier role-based access. |
 | [hvac-crm](https://github.com/xDope7137/hvac-crm) | Field-service CRM for HVAC teams. Dispatch, jobs, quotes, invoices. Static SPA with a live demo. |
 | [DopeGram](https://github.com/xDope7137/DopeGram) | Instagram automation with configurable jobs, rate limits, and filters. Python. |
-
-![Bhavik's GitHub stats](https://github-readme-stats.vercel.app/api?username=xDope7137&show_icons=true&hide=stars)
