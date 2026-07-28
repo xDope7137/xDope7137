@@ -13,8 +13,8 @@ Seven years shipping production software end to end, mostly solo, for 500+ clien
 | Project | What it is | |
 | --- | --- | --- |
 | **[agentic-android](https://github.com/xDope7137/agentic-android)** | An LLM agent that drives a real Android phone over ADB. It reads the screen, acts, verifies the result, and loops until the task is done. Six model backends and an MCP server. | `Python` |
-| **[society](https://github.com/xDope7137/society)** | Society management platform for apartment complexes. Visitor check-in, complaints, billing and notices across four permission tiers. | [**Live**](https://society.bhavikp.in) · `Django` `Next.js` |
-| **[hvac-crm](https://github.com/xDope7137/hvac-crm)** | Field-service CRM for HVAC teams. Dispatch, jobs, quotes, invoices and inventory, with no build step and no backend. | [**Live**](https://crm.bhavikp.in) · `JavaScript` |
+| **[society-management](https://github.com/xDope7137/society-management)** | Society management platform for apartment complexes. Visitor check-in, complaints, billing and notices across four permission tiers. | [**Live**](https://society.bhavikp.in) · `Django` `Next.js` |
+| **[closeloop-crm](https://github.com/xDope7137/closeloop-crm)** | Field-service CRM for HVAC teams. Dispatch, jobs, quotes, invoices and inventory, with no build step and no backend. | [**Live**](https://crm.bhavikp.in) · `JavaScript` |
 | **[DopeGram](https://github.com/xDope7137/DopeGram)** | Instagram automation for real or emulated Android devices. Configurable jobs, rate limits, filters and session scheduling. | `Python` |
 
 ### What I work with
