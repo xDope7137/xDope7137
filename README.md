@@ -8,6 +8,26 @@ Seven years shipping production software end to end, mostly solo, for 500+ clien
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bhavik--xdope-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavik-xdope)
 [![Email](https://img.shields.io/badge/email-hi@bhavikp.in-EA4335?logo=gmail&logoColor=white)](mailto:hi@bhavikp.in)
 
+---
+
+### 🚀 Termdeck — [termdeck.io](https://termdeck.io?ref=ghprofile)
+
+**Web control plane for the coding-agent CLIs already running on your machines.**
+Claude Code, OpenAI Codex CLI and Grok on one fleet board — approve tool permissions from your phone, drive any session from any device, and still `claude --resume` it in the terminal afterwards.
+
+[![Live](https://img.shields.io/badge/live-termdeck.io-e2611b?style=for-the-badge)](https://termdeck.io?ref=ghprofile)
+[![Repo](https://img.shields.io/badge/code-termdeck-1f2937?style=for-the-badge&logo=github)](https://github.com/xDope7137/termdeck)
+[![Developers](https://img.shields.io/badge/developers-1%2C340-e2611b?style=for-the-badge)](https://termdeck.io?ref=ghprofile)
+[![Machines](https://img.shields.io/badge/machines-2%2C116-e2611b?style=for-the-badge)](https://termdeck.io?ref=ghprofile)
+
+<a href="https://github.com/xDope7137/termdeck"><img src="https://raw.githubusercontent.com/xDope7137/termdeck/main/media/termdeck-dashboard.png" alt="Termdeck fleet board — Claude Code and Codex CLI sessions across three machines" width="640" /></a>
+
+`Node.js` · `vanilla ES modules, no build step` · `WebSocket` · `PWA + Web Push` · `SQLite`
+
+**896 commits · 266 production deploys · 53 documented invariants · 3 engines**
+
+---
+
 ### Selected work
 
 | Project | What it is | |
