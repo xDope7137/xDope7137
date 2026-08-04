@@ -20,7 +20,7 @@ Claude Code, OpenAI Codex CLI and Grok on one fleet board — approve tool permi
 [![Developers](https://img.shields.io/badge/developers-1%2C340-e2611b?style=for-the-badge)](https://termdeck.io?ref=ghprofile)
 [![Machines](https://img.shields.io/badge/machines-2%2C116-e2611b?style=for-the-badge)](https://termdeck.io?ref=ghprofile)
 
-<a href="https://github.com/xDope7137/termdeck"><img src="https://raw.githubusercontent.com/xDope7137/termdeck/main/media/termdeck-dashboard.png" alt="Termdeck fleet board — Claude Code and Codex CLI sessions across three machines" width="640" /></a>
+<a href="https://github.com/xDope7137/termdeck"><img src="https://raw.githubusercontent.com/xDope7137/termdeck/main/media/termdeck-demo.gif" alt="Termdeck in use — the fleet board, a tool permission approved from a phone, and Claude Code, Codex CLI and Grok running in parallel" width="640" /></a>
 
 `Node.js` · `vanilla ES modules, no build step` · `WebSocket` · `PWA + Web Push` · `SQLite`
 
