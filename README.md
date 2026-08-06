@@ -17,6 +17,7 @@ Claude Code, OpenAI Codex CLI and Grok on one fleet board — approve tool permi
 
 [![Live](https://img.shields.io/badge/live-termdeck.io-e2611b?style=for-the-badge)](https://termdeck.io?ref=ghprofile)
 [![Repo](https://img.shields.io/badge/code-termdeck-1f2937?style=for-the-badge&logo=github)](https://github.com/xDope7137/termdeck)
+[![Instagram](https://img.shields.io/badge/%40termdeck-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/termdeck)
 [![Developers](https://img.shields.io/badge/developers-1%2C340-e2611b?style=for-the-badge)](https://termdeck.io?ref=ghprofile)
 [![Machines](https://img.shields.io/badge/machines-2%2C116-e2611b?style=for-the-badge)](https://termdeck.io?ref=ghprofile)
 
