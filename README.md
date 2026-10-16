@@ -49,4 +49,6 @@ Claude Code, OpenAI Codex CLI and Grok on one fleet board — approve tool permi
 
 Earlier work includes a run of FiveM/GTA V roleplay resources built between 2019 and 2022 — jobs, economies and server tooling in Lua and C#. Those repos are archived but still up if you want to see where the automation habit started.
 
+Two side projects I run on my own domain: [Melap](https://astrology.bhavikp.in/), a kundali matching tool that works out all 36 gunas, and [Naam](https://gujratibabynames.bhavikp.in/), a Gujarati baby name finder with meanings and rashi.
+
 <sub>📫 <a href="mailto:hi@bhavikp.in">hi@bhavikp.in</a> · 🌐 <a href="https://bhavikp.in">bhavikp.in</a></sub>
